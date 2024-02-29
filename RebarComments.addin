@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>RebarComments.dll</Assembly>
+    <AddInId>86a100ec-fd34-4a05-bc72-2d5438ba418f</AddInId>
+    <FullClassName>RebarComments.RebarCommentsAdd</FullClassName>
+    <VendorId>sgiman</VendorId>
+    <Text>Rebar Comments</Text>
+    <Description>For the “Structural Rebar” family category , assign to the "Comments" parameter.</Description>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+    <Discipline>Any</Discipline>
+    <LanguageType>Unknown</LanguageType>
+  </AddIn>
+</RevitAddIns>
