@@ -1,6 +1,6 @@
 # 
  Rebal сomments command (Revit)
-# API Revit RebalComments command
+# API Revit RebarComments command
 
 ## API REVIT 2023, C# .NET Framework 4.8
 
